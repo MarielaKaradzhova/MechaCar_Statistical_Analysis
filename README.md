@@ -25,4 +25,14 @@ Tools: R, RStudio
 
 
 
-# Study Design: MechaCar vs Competition
+# Study Design Questions: MechaCar vs Competition
+ 1.What metric or metrics are you going to test?
+ 
+ 
+ 2.What is the null hypothesis or alternative hypothesis?
+ 
+ 
+ 3.What statistical test would you use to test the hypothesis? And why?
+ 
+ 
+ 4. What data is needed to run the statistical test?
