@@ -9,9 +9,14 @@ Tools: R, RStudio
 
  1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
     -Vechicle Length, Ground Clearance are statistically significant (0.001).
- 3. Is the slope of the linear model considered to be zero? Why or why not?
+    
+ 2. Is the slope of the linear model considered to be zero? Why or why not?
   -No, it is >0 because the relationship between vechicle length, grounf clearance and MPG is statistically significant, therfore the slope cannot be = 0.
- 5. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+  
+ 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+  - This model has the ability to predict the MPG of prototypes effectively based on the R-squared value of 0.7149* (see Linear Regression to Predict MPG). 
+  
+  *A value of 0.7149 indicates strong predictability because it equals to %71.49 out of %100.
  
  
 ## Visualizations for the Trip Analysis
