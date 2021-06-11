@@ -13,3 +13,10 @@ Tools: R, RStudio
  
  
 # Visualizations for the Trip Analysis
+
+
+
+
+
+
+# T-Tests on Suspension Coils
