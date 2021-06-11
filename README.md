@@ -1,4 +1,6 @@
-# MechaCar_Statistical_Analysis
+# MechaCar Statistical Analysis
+
+Tools: R, RStudio
 
 ## Linear Regression to Predict MPG
  ![](https://github.com/MarielaKaradzhova/MechaCar_Statistical_Analysis/blob/main/resources/mpg_regression.png)
