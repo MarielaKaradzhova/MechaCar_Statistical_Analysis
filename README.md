@@ -12,11 +12,15 @@ Tools: R, RStudio
  3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
  
  
-# Visualizations for the Trip Analysis
+## Visualizations for the Trip Analysis
+
+
+### Total Summary DataFrame
 
  ![](https://github.com/MarielaKaradzhova/MechaCar_Statistical_Analysis/blob/main/resources/total_lot.png)
  
  
+ ### Lot Summary DataFrame
  
  ![](https://github.com/MarielaKaradzhova/MechaCar_Statistical_Analysis/blob/main/resources/total_sum.png)
 
