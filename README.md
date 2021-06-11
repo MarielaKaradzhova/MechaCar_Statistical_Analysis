@@ -25,7 +25,10 @@ Tools: R, RStudio
 
 
 # T-Tests on Suspension Coils
-View of Data:
+### Overview of Data:
+
+
+
 ![](https://github.com/MarielaKaradzhova/MechaCar_Statistical_Analysis/blob/main/resources/susp_data.png)
  
 
