@@ -13,7 +13,11 @@ Tools: R, RStudio
  
  
 # Visualizations for the Trip Analysis
+
  ![](https://github.com/MarielaKaradzhova/MechaCar_Statistical_Analysis/blob/main/resources/total_lot.png)
+ 
+ 
+ 
  ![](https://github.com/MarielaKaradzhova/MechaCar_Statistical_Analysis/blob/main/resources/total_sum.png)
 
 
