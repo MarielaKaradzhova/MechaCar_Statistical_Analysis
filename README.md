@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis
 
-# T-test Analysis Summary Visualization
+# Linear Regression to Predict MPG
  ![](https://github.com/MarielaKaradzhova/MechaCar_Statistical_Analysis/blob/main/resources/mpg_regression.png)
  
 ### Questions of Interest
