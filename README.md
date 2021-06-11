@@ -35,8 +35,8 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 
  Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
-
- - Lot 3 displays a large variance, therefore manufacturing is not equally variable between all lots, although lot 1 and 2 show minimal variances,  lot 3(170 PSI) exceeds the maxium stated PSI of 70.
+ - In total, the data shows that design specifications are met (variance=62)
+ - However, it is important to note that Lot 3 displays a large variance, therefore manufacturing is not equally variable between all lots, although lot 1 and 2 show minimal variances,  lot 3(170 PSI) exceeds the maxium stated PSI of 70.
 
  ![](https://github.com/MarielaKaradzhova/MechaCar_Statistical_Analysis/blob/main/resources/lot_3.png)
 
@@ -51,7 +51,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 
 
-The t-test resultsshow that the PSI in all manufacturing lots and each lot individually, are not statistically different ( p-value = 0.6072) from the population mean of 1,500 pounds per square inch.
+The t-test results show that the PSI in all manufacturing lots and each lot individually, are not statistically different ( p-value = 0.6072) from the population mean of 1,500 pounds per square inch.
 
 ### Suspension T-test Results
 ![](https://github.com/MarielaKaradzhova/MechaCar_Statistical_Analysis/blob/main/resources/susp_test.png)
