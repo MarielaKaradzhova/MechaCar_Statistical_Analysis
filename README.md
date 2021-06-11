@@ -20,6 +20,7 @@ Tools: R, RStudio
  
  
 ## Visualizations for the Trip Analysis
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
 
 
 ### Total Summary DataFrame
@@ -33,7 +34,7 @@ Tools: R, RStudio
 
 
 
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+ Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
  - Lot 3 displays a large variance, therefore manufacturing is not equally variable between all lots, although lot 1 and 2 show minimal variances,  lot 3(170 PSI) exceeds the maxium stated PSI of 70.
 
