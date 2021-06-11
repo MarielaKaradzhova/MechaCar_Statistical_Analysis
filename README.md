@@ -1,7 +1,8 @@
 # MechaCar_Statistical_Analysis
 
 # T-test Analysis Summary Visualization
- ![](https://github.com/MarielaKaradzhova/surfs_up/blob/main/resources/mpg_regression.png)
+ ![](https://github.com/MarielaKaradzhova/MechaCar_Statistical_Analysis/blob/main/resources/mpg_regression.png)
+ 
 ### Questions of Interest
 
  1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
