@@ -30,6 +30,10 @@ Tools: R, RStudio
 
 
 ![](https://github.com/MarielaKaradzhova/MechaCar_Statistical_Analysis/blob/main/resources/susp_data.png)
+
+
+### Suspension T-test Results
+![](https://github.com/MarielaKaradzhova/MechaCar_Statistical_Analysis/blob/main/resources/susp_test.png)
  
 
 
